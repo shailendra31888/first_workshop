@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <tittle>website</tittle>
+        <link  rel="stylesheet" href="style.css">
+        <link rel="icon" href="landscap.png">
+    </head>
+    <body>
+        
+
+    </body>
+</html>
